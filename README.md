@@ -5,3 +5,4 @@
 ![05](https://user-images.githubusercontent.com/62570663/126791856-11dd5ab0-3754-463d-b52a-f254429b021c.JPG)
 # LealTec
 Modelo de site para divulgação de curso in-line
+Acesso Link -> https://alanmachadodealmeida.github.io/LealTec/
